@@ -1,0 +1,8 @@
+{
+  "name": "together-backend",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "body-parser": "^1.20.0"
+  }
+}
